@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Far East Movement ft Snoop Dog - If I Was You ( Remix ).mp3 - MP3 Download, Play, Listen Songs - 4shared</title><meta name="description" content="Far East Movement ft Snoop Dog - If I Was You ( Remix ) - unduh di 4shared. Far East Movement ft Snoop Dog - If I Was You ( Remix ) disimpan di layanan berbagi-pakai file gratis 4shared. Online file sharing and storage - 15 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download. null"><meta name="keywords" content="Far East Movement ft Snoop Dog - If I Was You ( Remix ).mp3, Download, Play, Listen, mp3"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8"/><meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/><meta name="format-detection" content="telephone=no"/><meta name="format-detection" content="address=no"/><script type="text/javascript" src="/js/mobileScripts.js.h25770308.pack" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="/css/mobile/indexn.css.h110669917.pack" charset="utf-8"/><link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/mobile/account.css?ver=1997552676"/><link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/mobile/all.css?ver=30376"/><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script><script type="text/javascript">
+    $(function () {
+      $.ajaxPrefilter(function (options, originalOptions, jqXHR) {
+        if (!$.cookie) return
+        var cookie = $.cookie('Login')
+        if (cookie) jqXHR.setRequestHeader("x-security", cookie);
+      })
+    })
+  </script><script type="text/javascript">
+  function Config() {
+    return this
+  }
+  document.domain='4shared.com';
+</script><script type="text/javascript">
+  Config.mainSiteUrlPath = 'http://www.4shared.com/';
+  Config.mainSiteUrlHttpsPath  = 'https://www.4shared.com/';
+  Config.isRTLLanguage = false;
+  Config.isReplaceSearchNameForSeo = false;
+  Config.revisionNum = 30376;
+  Config.syncDomain = 'https://www.4sync.com/';
+  Config.cdDomain = '//dc626.4shared.com/';
+  Config.mailPatterrn = new RegExp("^[_A-Za-z0-9-]+(?:\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(?:\\.[A-Za-z0-9-]+)+$");
+  Config.isMobile = true;
+  Config.isIpad = false;
+  Config.is4Sync = false;
+
+      $(function(){
+      //lets detect touch device
+      try{
+          document.createEvent("TouchEvent");
+        if (!/Opera Mobi/.test(navigator.userAgent) && !/Opera Mini/.test(navigator.userAgent)) $("body").addClass("notTouch");
+      } catch(e){
+          $("body").addClass("notTouch");
+      }
+  });
+</script><script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.cookie.js?ver=3361025129"></script><script type="text/javascript">
+    $(document).ready(function() {
+      $('.showMore').click(function() {
+        $('.fileDescriptionMore').show()
+        $(this).hide()
+      })
+      $('.showLess').click(function() {
+        $('.fileDescriptionMore').hide()
+        $('.showMore').show()
+      })
+    });
+
+    function hideWaitMessage() {
+      $('#divDLWait').hide()
+    }
+
+    function showDownloadButton() {
+      $('.jsButtonsBlock').children().first().show()
+    }
+
+    function addFile2Account() {
+      var fileId = $('.jsAddFile2Account').attr('data-fileId')
+      var filePass = $('.jsAddFile2Account').attr('data-filePass')
+      $.ajax({
+        type: 'post',
+        url: '/rest/file/add2account?fileId=' + fileId + '&pass=' + filePass + '&toDirId=-1',
+        success: function(data) {
+          alert(data.message)
+        },
+        error: function(data) {
+          alert('error on adding file to account: ' + data.message)
+        }
+      })
+    }
+  </script></head><body class="site4shared Safari mobile body" align="center"><link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/plugins/jquery.smartbanner.css?ver=1228335712"/><script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.smartbanner.js?ver=1553542232"></script><script type="text/javascript" src="http://static.4shared.com/js/mobileAppsAds.js?ver=2652228814"></script><script type="text/javascript">
+  $(function(){
+    new MobileAppsAdd({
+      isIphoneOS : false,
+      isAndroidOS : false,
+      isBlackberryOS : false,
+      isSymbianOS : true,
+      iphoneOSAppId : "444426162",
+      androidOSAppUrl : "https://play.google.com/store/apps/details?id=com.forshared",
+      defaultAppName : "4shared",
+      defaultAppCompany : "New IT Solutions",
+      noDisplayTime : 2
+    });
+
+  });
+</script><div class="mobileAppAddTopBaner"><a href="javascript:void(0)" class="jsMobAddClose closeAdsBlock"></a><img src="" alt="" class="jsAppImg"><div class="jsAppName heading top"></div><div class="jsAppCompanyName mob_regular"></div><div class="jsAppRating"></div><a href="javascript:void(0)" class="jsAppUrl mob_grayButton">Install</a></div><div id="mob_content"><div id="mob_header"><a href="http://www.4shared.com/" class="mob_logo gaClick" data-element="h1" title="4shared"></a><div class="mob_headbuttons"><a href="http://www.4shared.com/settings.jsp" class="headbutton but_settings"></a><a href="http://search.4shared.com/search.html" class="headbutton but_search"></a><a href="http://www.4shared.com/login.jsp" class="headbutton but_account"></a><a href="http://www.4shared.com/login.jsp"><div class="mobUserLogin headbutton" style="display:none"></div></a></div></div><div id="mob_body" class="d1_page"><div class="mob_ads"><script>document.cookie='somauid=900; Domain=.adshost1.com; Expires=Sat, 01-Mar-2014 14:10:55 GMT; Path=/';document.cookie='epomUUID=8eb8163e95124dfbadd734f4ecad2722; Domain=.adshost1.com; Expires=Thu, 24-Feb-2033 14:10:55 GMT; Path=/';</script><p><a href="http://f112.smaato.net/oapi/lp.jsp;jsessionid=70712BD86F9688DC4AC434DCA193F3AA.f112"><img src="http://f112.smaato.net/oapi/getAd.jsp;jsessionid=70712BD86F9688DC4AC434DCA193F3AA.f112" border="0" alt=""/></a><img border="0" src="http://vserv.bc.cdn.bitgravity.com/b.gif" alt=""/></p><img src="http://www.adshost1.com/impression.gif?b=19477&p=35&c=6406&l=ID&h=9858de91c5a606616004dd1232569b2a&t=1362147055705&s=0a3f3ed1cf3788bdbbe7efe6876f7748" alt="" style="width:1px; height:1px; position:absolute; left:-10000px"/><script type="text/javascript">document.cookie='epomUUID=8eb8163e95124dfbadd734f4ecad2722; Expires=Thu, 24-Feb-2033 14:10:55 GMT; Path=/';document.cookie='somauid=900; Expires=Sat, 01-Mar-2014 14:10:55 GMT; Path=/';</script></div><div class="name"><div class="fileInfoContainer"><div class="fileIcon" style="background-image: url(http://static.4shared.com/icons/16x16/mp3.png)"></div><div class="fileName">Far East Movement ft Snoop Dog - If I Was You ( Remix ).mp3</div><div class="fileInfo"> dengan <a class="author gaClick" data-element="s10.3" href="http://www.4shared.com/u/B_-4MlL5/lisy_alves_1.html">lisy_alves_1</a><span class="size">8,097 KB</span> | <span class="date">2011-05-26</span> | <span class="type">MPEG Audio Stream</span></div></div><script type="text/javascript">
+       function auth() {
+         
+         try {
+           $('.jsButtonsBlockNotLogged').hide()
+           $(".jsLoginBlock").show();
+           return false;
+         } catch(e) { }
+       }
+     </script><div class="jsLoginBlock notLogged" style="display: none"><span class='mob_regular'> You should <a class="gaClick" data-element="d7" href="/login.jsp?fpRedirParam=http://www.4shared.com/mp3/vo4ogGT4/Far_East_Movement_ft_Snoop_Dog.html">log in</a> to download this file. <a class="gaClick" data-element="d8" href="/signup.jsp?fpRedirParam=http://www.4shared.com/mp3/vo4ogGT4/Far_East_Movement_ft_Snoop_Dog.html">Sign up</a> for free if you don't have an account yet. </span></div><div class="videoOrPlayerWrapper"><div id="html5Player" style="text-align:center;"><audio tabindex="0" controls="" preload="" id="player1"><source src="http://dc318.4shared.com/img/610509245/5112e2d8/dlink__2Fdownload_2Fvo4ogGT4_3Ftsid_3D20130301-141035-fff71ce1/preview.mp3" type="audio/mpeg"/></audio></div></div><div class="fileDescription"><span class="shortDescription">Far East Movement ft Snoop Dog - If I Was You ( Remix ) - unduh di 4shared. Far East Movement ft Snoop Dog - If I Was You ( Remix ) disimpan di layanan berbagi-pakai file gratis 4shared.</span><a href="#" class="showMore" style="display: block">Yang lainnya...</a><div class="fileDescriptionMore"><p><span class="descrHeading">Tag-tag:</span><span><a href="http://search.4shared.com/q/1/Far+East+Movement+ft+Snoop+Dog+-+If+I+Was+You+(+Remix+)">Far East Movement ft Snoop Dog - If I Was You ( Remix )</a>&nbsp; <a href="http://search.4shared.com/q/1/mp3">mp3</a></span></p><p><span class="descrHeading">Info Mp3:</span><span>Aliran:</span><span>Blues</span> | <span>Laju Bit:</span><span>256 kbps</span> | <span>Laju Contoh:</span><span>44100</span> | </p><a href="#" class="showLess">Lebih sedikit</a></div></div><div class="buttonsBlock jsButtonsBlock"><a href="http://dc313.4shared.com/download/vo4ogGT4/Far_East_Movement_ft_Snoop_Dog.mp3?tsid=20130301-141055-4b68fe37" class="downloadButton" style="display: none" data-secId="20" onclick="return auth()">Unduh</a><a href="#" class="add2myAccountButton jsAddFile2Account" data-fileId="610509245" data-filePass="5112e2d8" onclick="return false" style="display: none">Tambah ke akun saya</a></div></div><div class="" id='divDLWait'> Link unduh Anda akan ditampilkan<br/> dalam <b class="xxlarge blue" id='downloadDelayTimeSec'>20</b> detik... </div><script type="text/javascript">
+           var countDownSeconds = 20;
+           function fcwait() {
+             if (countDownSeconds > 0) {
+               var el = document.getElementById("downloadDelayTimeSec");
+               if (el) {
+                 el.innerHTML = "" + countDownSeconds;
+               }
+
+               var currentTime = new Date().getTime();
+               /*Some mobile browsers stop javascript-timeout workers for power-saving purposes. For fix that we will calculate real time for counter*/
+               var delta = currentTime - prevCounterTime;
+               if(delta<1.5*1000/*when difference less then 1.5 seconds lets use just 1 */)
+                delta = 1;
+               else
+                delta = Math.round(delta/1000);
+
+               countDownSeconds = countDownSeconds - delta;
+               prevCounterTime = new Date().getTime();
+               setTimeout("fcwait()", 1000);
+             } else {
+               hideWaitMessage();
+               showDownloadButton();
+             }
+           }
+           var prevCounterTime = new Date().getTime();
+           fcwait();
+         </script><div class="mob_ads"><script>document.cookie='somauid=900; Domain=.adshost1.com; Expires=Sat, 01-Mar-2014 14:10:56 GMT; Path=/';document.cookie='epomUUID=b74e2b78e7184e4ebbef597bc822bbad; Domain=.adshost1.com; Expires=Thu, 24-Feb-2033 14:10:55 GMT; Path=/';</script><p><a href="http://f102.smaato.net/oapi/lp.jsp;jsessionid=117D0A49C894E1DB6E9038933ECE53A6.f102"><img src="http://f102.smaato.net/oapi/getAd.jsp;jsessionid=117D0A49C894E1DB6E9038933ECE53A6.f102" border="0" alt=""/></a><img border="0" src="http://my.mobfox.com/mf.impression.pixel.php?main_type=thirdparty&pub_id=266&inv_id=19352&country_code=ID&device_id=88&campaign_id=0&adgroup_id=0&ad_id=0" alt=""/></p><img src="http://www.adshost1.com/impression.gif?b=19478&p=3041&c=6406&l=ID&h=d261a8ea7892691661a306a259fd02e0&t=1362147056123&s=6fa38bb1dc9f008d5378ebf636426fe8" alt="" style="width:1px; height:1px; position:absolute; left:-10000px"/><script type="text/javascript">document.cookie='epomUUID=b74e2b78e7184e4ebbef597bc822bbad; Expires=Thu, 24-Feb-2033 14:10:55 GMT; Path=/';document.cookie='somauid=900; Expires=Sat, 01-Mar-2014 14:10:56 GMT; Path=/';</script></div><div class="paddingDivForFooter"></div></div></div><div id="mob_footer"><div class="s" align="center"><a class="gaClick fullVersionLink" data-element="f15" href="#" onclick="classicView('4shared.com');">Desktop version</a></div><div class="footer_menu"><a href="/privacy.jsp">Privasi</a><a> | </a><a href="/terms.jsp">Persyaratan</a></div><div class="s mob_copyright" style="margin-top:5px" align="center">&copy; 2005-2013 4shared.com</div></div><script type="text/javascript">
+var sc_project=4135125;
+var sc_invisible=1;
+var sc_partition=51;
+var sc_click_stat=1;
+var sc_security="e8ecc2ac";
+</script><script type="text/javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="free hit counter" href="http://www.statcounter.com/free_hit_counter.html" target="_blank" rel="nofollow"><img class="statcounter" src="//c.statcounter.com/4135125/0/e8ecc2ac/1/" alt="free hit counter"></a></div></noscript><script type="text/javascript">
+ document.write("<img src='//www.jscount.com/a/4/28b1a41b/z?ref="+
+escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")
+</script><script type="text/javascript">
+<!--
+document.write("<img src='//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width=1 height=1 alt='' style='display:none'>")//-->
+</script><script type="text/javascript" src="//secure.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-23Fqia_-MkKko";quantserve();</script><noscript><a href="http://www.quantcast.com/p-23Fqia_-MkKko" target="_blank" rel="nofollow"><img src="//secure.quantserve.com/pixel/p-23Fqia_-MkKko.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"></a></noscript><script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-306602-1']);
+_gaq.push(['_setCustomVar', 1, 'User Type', 'Guest', 2]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setSampleRate', '10']);
+
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+
+</script><script type="text/javascript">
+   document.write("<"+"script type='text/javascript' src='http://www.adshost1.com/ads-sync.js?key=f11d7770d28f06c628386d47cb6eb053&tz="+(new Date().getTimezoneOffset()/-60)+"'><"+"/script>");
+</script><script type="text/javascript">
+    try {
+      _gaq.push(['_trackEvent', 'download-guest', 'PageView' , 'general']);
+    } catch (err) { }
+
+    function clickFunction() {
+      var element = $(this).attr('data-element')
+      if (element)
+        try {
+        
+          _gaq.push(['_trackEvent', 'download-guest', 'general', element])
+        } catch (err) {
+        }
+    }
+
+    function handlerClick() {
+      $('.gaClick, .tab').unbind('click', clickFunction).click(clickFunction)
+    }
+
+    $(function() {
+      handlerClick()
+
+      if(typeof(Events)!='undefined') Events.addListener('folder.reload', function() {handlerClick()})
+    })
+
+    function showGANumbers() {
+      $('.gaClick, .tab').each(function () {
+        var element = $(this).attr('data-element')
+        if ($(this).css('position') != 'absolute') {
+          $(this).css('position', 'relative')
+        }
+        if (element) $(this).append($('<div/>').html(element).addClass('gaHelperNumbers'))
+      });
+    }
+</script></body></html>
+ }
+</script></body></html>
